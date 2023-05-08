@@ -26,7 +26,7 @@ Arpha B.V. @ [www.arpha.nl](https://www.arpha.nl)
 
 Feedback is welcome at [servicedesk@arpha.nl](mailto:servicedesk@arpha.nl)
 
-# Features
+# Features FREE version
 - Dockerized application
 - HTTP-redirect binding for Login
 - Login screen with:
