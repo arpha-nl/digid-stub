@@ -1,5 +1,5 @@
 # About
-DigiD Stub (FREE) - Emulates DigiD SAML2.0 IDP
+DigiD Stub (FREE) - Emulates DigiD SAML2.0 IDP (Identity Provider)
 
 DOWNLOAD FREE VERSION: https://www.arpha.nl/digid-stub/
 
