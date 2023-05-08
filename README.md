@@ -1,23 +1,23 @@
-#About
+# About
 DigiD Stub (FREE) - Emulates DigiD SAML2.0 IDP
 
 DOWNLOAD FREE VERSION: https://www.arpha.nl/digid-stub/
 
 Check all features below.
 
-#License
+# License
 See LICENSE.txt
 
-#Author
+# Author
 Arpha B.V. @ [www.arpha.nl](https://www.arpha.nl) 
 
-#Configuration
+# Configuration
 1. Configure IDP URL's in ```settings.php``` with public IP/hostname: ```sys_sso_url, sys_slo_url, sys_art_res_service_url, sys_entity_id```
 2. Configure ```$sp_settings``` in ```settings.php```
 3. Run ```create-certs.sh```
 4. Optional: configure exposed ports in ```doker-compose.yml```
 
-#How to run
+# How to run
 1. ```./docker-compose up```
 2. Open ``http://[sys_entity_id]/metadata/``
 3. Import IDP-metadata in your SAML2.0 Service Provider
@@ -26,7 +26,7 @@ Arpha B.V. @ [www.arpha.nl](https://www.arpha.nl)
 
 Feedback is welcome at [servicedesk@arpha.nl](mailto:servicedesk@arpha.nl)
 
-#Features
+# Features
 - Dockerized application
 - HTTP-redirect binding for Login
 - Login screen with:
@@ -35,7 +35,7 @@ Feedback is welcome at [servicedesk@arpha.nl](mailto:servicedesk@arpha.nl)
     - authentication level select
 - Automatic session cleaning
 
-#Why buy the PRO version?
+# Why buy the PRO version?
 Our PRO version offers all features needed to fully test the authentication flow of your application. The PRO version also contains features which makes testing a lot easier and quicker to test different scenario's.
 Features include:
 
