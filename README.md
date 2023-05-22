@@ -61,6 +61,8 @@ Features include:
 
 - Support for different error scenario's, including canceling login and time-outs
 
+- Supports multiple simultaneously connected SAML2.0 SP's (Service Providers)
+
 - Outputs detailed debug logging for analysis
 
 - One-time payment. Lifetime license to use
