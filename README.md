@@ -53,7 +53,9 @@ Features include:
 - License allows for customisation for own use
 
 - User interface (Login screen and BSN picker):
+  - custom BSN input
   - shows list of predefined BSN’s or lets tester pick random BSN
+  - group BSN's for example for different testing scenario's
   - remembers last used BSN's 
   - lets tester pick desired authentication level
 
